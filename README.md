@@ -10,4 +10,4 @@ Bienvenido a tu primer taller de la asignatura, para completarlo es necesario qu
 
 - **Nombre completo:**  Nestor Andres Tabares David
 - **ID de la Universidad:**  0000287880
-- **Usuario de Github:**  [@nestortada](https://github.com/nestortada))
+- **Usuario de Github:**  [@nestortada](https://github.com/nestortada)

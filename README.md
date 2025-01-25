@@ -8,6 +8,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:** : Nestor Andres Tabares David
-- **ID de la Universidad:** : 0000287880
-- **Usuario de Github:** GitHub: @nestortada
+- **Nombre completo:**  Nestor Andres Tabares David
+- **ID de la Universidad:**  0000287880
+- **Usuario de Github:**  ([@nestortada](https://github.com/nestortada))
